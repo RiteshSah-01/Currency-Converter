@@ -1,4 +1,19 @@
 # React + Vite
+# Currency Converter
+
+A real-time currency converter built using React and Tailwind CSS.
+
+## Features
+- Real-time exchange rates
+- Currency swap
+- Responsive UI
+- Background image
+- Modern design
+
+## Tech Stack
+- React
+- Tailwind CSS
+- Currency API
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
